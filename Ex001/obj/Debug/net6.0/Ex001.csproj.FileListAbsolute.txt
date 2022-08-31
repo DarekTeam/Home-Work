@@ -1,0 +1,15 @@
+D:\Евгений учёба\project\Examples\Ex001\bin\Debug\net6.0\Ex001.exe
+D:\Евгений учёба\project\Examples\Ex001\bin\Debug\net6.0\Ex001.deps.json
+D:\Евгений учёба\project\Examples\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+D:\Евгений учёба\project\Examples\Ex001\bin\Debug\net6.0\Ex001.dll
+D:\Евгений учёба\project\Examples\Ex001\bin\Debug\net6.0\Ex001.pdb
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\Ex001.dll
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\Ex001.pdb
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+D:\Евгений учёба\project\Examples\Ex001\obj\Debug\net6.0\ref\Ex001.dll
